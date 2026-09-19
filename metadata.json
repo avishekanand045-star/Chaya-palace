@@ -1,0 +1,6 @@
+{
+  "name": "Chhaya Palace Dumka",
+  "description": "Luxury 3D animated hotel, marriage hall, and meeting hall website for Chhaya Palace in Dumka, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
